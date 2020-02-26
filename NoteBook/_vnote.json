@@ -1,22 +1,31 @@
 {
     "attachment_folder": "_v_attachments",
-    "created_time": "2019-11-13T08:35:57Z",
+    "created_time": "2019-12-27T01:00:59Z",
     "files": [
     ],
     "image_folder": "",
     "recycle_bin_folder": "_v_recycle_bin",
     "sub_directories": [
         {
-            "name": "Git"
+            "name": "C&C++"
         },
         {
-            "name": "C&C++"
+            "name": "Git"
         },
         {
             "name": "IDE"
         },
         {
             "name": "相关滤波跟踪算法"
+        },
+        {
+            "name": "深度学习"
+        },
+        {
+            "name": "Qt"
+        },
+        {
+            "name": "EODAS"
         }
     ],
     "tags": [
